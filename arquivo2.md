@@ -2,6 +2,7 @@
 
 Um projeto fictício para praticar a escrita de documentação com
 Markdown.
+Realizado em uma oficina universitária.
 
 > **Objetivo:** organizar tarefas acadêmicas, acompanhar prazos e
 > registrar o andamento dos estudos.
